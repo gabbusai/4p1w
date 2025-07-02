@@ -1,5 +1,3 @@
-import React from 'react'
-
 
 type ImageBoxProps = {
     // Define any props you need here
